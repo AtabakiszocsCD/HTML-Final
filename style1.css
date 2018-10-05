@@ -16,14 +16,10 @@ h1{
 h2{
   color:Purple;
   margin-top: 10%;
-  font-size: 45px;
-  text-decoration: underline;
 }
 
 h3{
   color:Purple;
-  margin-top: 10%;
-  font-size: 35px;
 }
 
 p{
@@ -34,6 +30,7 @@ p{
   font-style: bold;
   font-size: 20px;
   border-style:hidden;
+
 }
 
 body{
@@ -45,20 +42,11 @@ a{
 }
 
 img{
-margin-left: 5%;
+  margin-left:-5%;
 }
 
 
 nav{
   font-size: 25px;
 text-align: center;
-}
-
-li{
-  font-size: 25px;
-}
-
-ol{
-  display: table;
-  margin: auto;
 }
